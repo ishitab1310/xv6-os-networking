@@ -1,0 +1,11 @@
+﻿# Build artifacts
+*.o
+*.d
+kernel/kernel
+user/_*
+mkfs/mkfs
+*.img
+.gdbinit
+
+# osn temp clone
+osn-temp/
